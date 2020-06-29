@@ -4,4 +4,3 @@ Description: Using pagination technique in order to navigate a list of 54 studen
 
 Skills and Techniques: 
 
-Extra Credit: Added a search component, search functionality, search results, and no results returned. 
